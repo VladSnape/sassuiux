@@ -20,7 +20,7 @@ const Features = () => {
             </div>
             <p className="font-medium text-gray-500">
               Stay on top of things and revamp your work process with our game-changing feature.
-              Get a bird's eye view with our customizable dashboard.
+              Get a birds eye view with our customizable dashboard.
             </p>
             <ul className="text-gray-700 gap-5 flex flex-col">
               <li className="flex gap-x-5 items-center">
@@ -58,7 +58,7 @@ const Features = () => {
             </div>
             <p className="font-medium text-gray-500">
             Stay on top of things and revamp your work process with our game-changing feature.
-             Get a bird's eye view with our customizable dashboard. 
+             Get a birds eye view with our customizable dashboard. 
             </p>
             <ul className="text-gray-700 gap-5 flex flex-col">
               <li className="flex gap-x-5 items-center">
@@ -96,7 +96,7 @@ const Features = () => {
             </div>
             <p className="font-medium text-gray-500">
               Stay on top of things and revamp your work process with our game-changing feature.
-              Get a bird's eye view with our customizable dashboard.
+              Get a birds eye view with our customizable dashboard.
             </p>
             <div className="flex justify-between">
                 <div className="flex flex-col gap-3">
