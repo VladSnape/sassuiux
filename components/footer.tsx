@@ -1,7 +1,4 @@
 import { AiFillAlipayCircle } from "react-icons/ai";
-import  X  from "/assets/X.svg"
-import  facebook  from "/assets/facebook.svg"
-import  feed  from "/assets/feed.svg"
 import Image from 'next/image'
 
 import {
@@ -75,9 +72,9 @@ const Footer = () => {
     <div className="m-10 flex flex-col gap-5 lg:flex-row">
     <p className="text-slate-500 text-center p-5 lg:w-1/2 lg:text-start">© Copyright 2024. Your Site. All rights reserved.</p>
     <div className=" flex justify-around px-20 lg:w-1/2 lg:justify-end lg:gap-x-10">
-       < Image src={X} alt='x' />
-       < Image src={facebook} alt='facebook' />
-       < Image src={feed} alt='feed' />
+       < Image src="/assets/X.svg" alt='x' />
+       < Image src="/assets/Facebook.svg" alt='facebook' />
+       < Image src="/assets/Feed.svg" alt='feed' />
 
     </div>
     </div>
