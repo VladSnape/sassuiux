@@ -1,7 +1,7 @@
 import { AiFillAlipayCircle } from "react-icons/ai";
-import  X  from "../public/assets/X.svg"
-import  facebook  from "../public/assets/facebook.svg"
-import  feed  from "../public/assets/feed.svg"
+import  X  from "/assets/X.svg"
+import  facebook  from "/assets/facebook.svg"
+import  feed  from "/assets/feed.svg"
 import Image from 'next/image'
 
 import {
